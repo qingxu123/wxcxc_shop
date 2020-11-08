@@ -45,7 +45,8 @@
         "appid" : "wx02bac0bb0141b5b0",
         "setting" : {
             "urlCheck" : true,
-			"checkSitMap":false	
+            "checkSitMap" : false,
+            "minified" : true
         }
     }
 }
